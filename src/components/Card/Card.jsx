@@ -16,7 +16,7 @@ const Card = ({info}) => {
           </div>
         )
       })
-        :<h1>loading</h1>}
+        :<h1 className='text-white font-bold text-3xl'>loading...</h1>}
     </div>
     </div>
   )
